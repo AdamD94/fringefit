@@ -11,6 +11,7 @@ scipy = "*"
 notebook = "*"
 imageio = "*"
 matplotlib = "*"
+jupyter = "*"
 
 [requires]
 python_version = "3.7"
