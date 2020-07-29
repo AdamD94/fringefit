@@ -12,6 +12,4 @@ notebook = "*"
 imageio = "*"
 matplotlib = "*"
 jupyter = "*"
-
-[requires]
-python_version = "3.7"
+pillow = ">=7.1.0"
